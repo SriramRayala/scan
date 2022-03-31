@@ -7,7 +7,7 @@
 #
 # GROUP      : 42
 # Tool       : Scan
-# Usage      : python3 sCan.py example.com
+# Usage      : python3 scan.py example.com
 # Description: This scanner automates the process of security scanning by using a
 #              multitude of available linux security tools and some custom scripts.
 #
